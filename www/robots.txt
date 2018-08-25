@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+/admin
+/user
+/backups
+/logs
+/yrnirzrurer - 13 is a lucky encryption XD
